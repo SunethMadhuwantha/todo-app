@@ -1,6 +1,6 @@
 const request = require('supertest');
-const app = require('../app'); // assuming your express app is exported here
-const db = require('../db');   // assuming db is exported from a db.js file
+const app = require('../app'); 
+const db = require('../db');   
 
 
 
